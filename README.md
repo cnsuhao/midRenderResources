@@ -1,2 +1,1 @@
-# EngineXResources
-Textures and Resources for LyricWulf's Engine X.
+resources for [midRender](http://github.com/9hax/midRender)
